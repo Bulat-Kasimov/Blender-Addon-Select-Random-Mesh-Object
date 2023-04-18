@@ -10,7 +10,7 @@ To install this addon, follow these steps:
 
 To use this addon, follow these steps:
 - Switch to the 3D View and open the sidebar (N key).
-- Go to the Random Mesh Selector tab.
+- Go to the "Select Random Mesh Object" tab.
 - Click on the "Select Random Mesh Object" button.
 
 A random mesh object in the scene will be selected. You can repeat this as many times as you want.
